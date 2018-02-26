@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+ <group android:checkableBehavior="single">
+    <item
+      android:id="@+id/nav_quran"
+      android:icon="@drawable/ic_nav_quran"
+      android:title="Al Quran"/>
+   <item
+      android:id="@+id/nav_quran_study"
+      android:icon="@drawable/ic_nav_quran"
+      android:title="Study Al Quran"/>
+    <item
+      android:id="@+id/nav_salahtime"
+      android:icon="@drawable/ic_nav_salahtimes"
+      android:title="Salah times"/>
+    <item
+      android:id="@+id/nav_quranaudio"
+      android:icon="@drawable/ic_nav_quranicaudio"
+      android:title="Quranic Audio"/>
+  </group>
+
+  <item android:title="Support Center">
+    <menu>
+      <item
+      android:id="@+id/nav_help"
+      android:icon="@drawable/ic_nav_help"
+      android:title="Help"/>
+      <item
+      android:id="@+id/nav_contact"
+      android:icon="@drawable/ic_nav_contact"
+      android:title="Contact us"/>
+    </menu>
+  </item>
+
+</menu>

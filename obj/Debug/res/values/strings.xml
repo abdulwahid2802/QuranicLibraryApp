@@ -1,0 +1,8 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">DesignLibrary</string><string name="quranLink">
+    Whoever reads a letter from the Book of Allah, he will have a reward.
+    And that reward will be multiplied by ten.
+  </string><string name="quranAudioLink">
+    Listen to the glorious words of The Creator on the go. Al-Qur\'an is better than any music!
+  </string><string name="studyQuran">
+    Studying AL Quran in detail and understanding the deep meanings was never easier. Put your daily effort to learn what your Creator is saying!
+  </string><string name="checkin">Checkin</string><string name="menu_settings">Settings</string></resources>

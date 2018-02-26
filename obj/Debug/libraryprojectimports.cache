@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\0\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\1\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\3\jl\bin\classes.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\0\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\1\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Debug\lp\0\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\1\jl\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Debug\lp\3\jl\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\0.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\shrew\source\repos\Xamarin_DesignLibrary\Xamarin_DesignLibrary\DesignLibrary_Tutorial\DesignLibrary_Tutorial\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
